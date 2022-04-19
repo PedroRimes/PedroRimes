@@ -1,10 +1,15 @@
 
 ### Português:
-Oi, meu nome é Pedro Coutinho Rimes, desenvolvedor e estudante de Sistemas de Informação na Universidade Federal Fluminense.
+Oi, meu nome é Pedro Coutinho Rimes, estou graduando em Sistemas de Informação na UFF, tenho experiencia com Python, C/C++, Java, HTML, CSS, JavaScript e React.
 
-<a href="figma.com/file/PXSo2rjFKcwnKgHEIAeMn5/Pedro-Coutinho-Rimes?node-id=0%3A1">Meu currículo.</a>
+<a href="https://www.figma.com/file/PXSo2rjFKcwnKgHEIAeMn5/Pedro-Coutinho-Rimes">Meu currículo.</a>
 
 ##
+
+### English:
+Hi, my name is Pedro Coutinho Rimes, i'm majoring in Information Sistems at UFF, i have experience in Python, C/C++, Java, HTML, CSS, JavaScript e React.
+
+<a href="">My CV.</a>
 
 <div>
   <a href="https://github.com/PedroRimes">
