@@ -7,7 +7,7 @@ Oi, meu nome é Pedro Coutinho Rimes, estou graduando em Sistemas de Informaçã
 ##
 
 ### English:
-Hi, my name is Pedro Coutinho Rimes, i'm majoring in Information Sistems at UFF, i have experience in Python, C/C++, Java, HTML, CSS, JavaScript e React.
+Hi, my name is Pedro Coutinho Rimes, i'm majoring in Information Sistems at UFF, i have experience in Python, C/C++, Java, HTML, CSS, JavaScript and React.
 
 <a href="https://www.figma.com/file/hnc41OXqtzGLAcdEyPTSRS/Pedro-Coutinho-Rimes-ENG">My CV.</a>
 
