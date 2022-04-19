@@ -1,4 +1,10 @@
-### Oi, meu nome é Pedro Coutinho Rimes, desenvolvedor e estudante de Sistemas de Informação na Universidade Federal Fluminense.
+
+### Português:
+Oi, meu nome é Pedro Coutinho Rimes, desenvolvedor e estudante de Sistemas de Informação na Universidade Federal Fluminense.
+
+<a href="figma.com/file/PXSo2rjFKcwnKgHEIAeMn5/Pedro-Coutinho-Rimes?node-id=0%3A1">Meu currículo.</a>
+
+##
 
 <div>
   <a href="https://github.com/PedroRimes">
